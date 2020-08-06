@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "last_seen": "2020-08-06T10:02:04.011545+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "dev",
+                    "id": "dev",
+                    "user_id": "959cded7632d470dbef4f6e0137d933f"
+                },
+                "context": {
+                    "id": "13816fc66bb64660b483d922538f1cbb",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.dev",
+                "last_changed": "2020-08-06T07:51:01.796014+00:00",
+                "last_updated": "2020-08-06T08:46:59.750406+00:00",
+                "state": "unknown"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}
