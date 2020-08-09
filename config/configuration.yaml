@@ -1,6 +1,30 @@
 # Configure a default setup of Home Assistant (frontend, api, etc)
 default_config:
 
+stream:
+
+ffmpeg:
+
+# To load all:
+demo:
+
+# To load for a specific integration:
+# light:
+#   - platform: demo
+
+# sensor:
+#   platform: example_sensor
+
+# light:
+#   - platform: example_light
+#     host: localhost
+#     username: sss
+#     password: 1
+
+# sensor:
+#   - platform: example_load_platform1
+#   - platform: example_load_platform2
+
 # Text to speech
 tts:
   - platform: google_translate

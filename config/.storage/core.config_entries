@@ -16,6 +16,60 @@
                 "title": "Home",
                 "unique_id": null,
                 "version": 1
+            },
+            {
+                "connection_class": "unknown",
+                "data": {},
+                "domain": "demo",
+                "entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "options": {},
+                "source": "import",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Demo",
+                "unique_id": null,
+                "version": 1
+            },
+            {
+                "connection_class": "local_poll",
+                "data": {
+                    "date": "1900-01-01",
+                    "date_format": "%Y-%m-%d",
+                    "days_as_soon": 1,
+                    "icon_normal": "mdi:calendar-blank",
+                    "icon_soon": "mdi:calendar",
+                    "icon_today": "mdi:calendar-star",
+                    "id_prefix": "anniversary_",
+                    "name": "bigbigworld",
+                    "one_time": false,
+                    "show_half_anniversary": false,
+                    "unique_id": "6bd12f2f-2af1-449a-be92-19d88c860f81",
+                    "unit_of_measurement": "Days"
+                },
+                "domain": "anniversaries",
+                "entry_id": "55300dc715424409a410f7f6120f1c8a",
+                "options": {
+                    "date": "1900-01-01",
+                    "date_format": "%Y-%m-%d",
+                    "days_as_soon": 1,
+                    "icon_normal": "mdi:calendar-blank",
+                    "icon_soon": "mdi:calendar",
+                    "icon_today": "mdi:calendar-star",
+                    "id_prefix": "anniversary_",
+                    "name": "bigbigworld",
+                    "one_time": false,
+                    "show_half_anniversary": false,
+                    "unique_id": "6bd12f2f-2af1-449a-be92-19d88c860f81",
+                    "unit_of_measurement": "Days"
+                },
+                "source": "user",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "bigbigworld",
+                "unique_id": null,
+                "version": 1
             }
         ]
     },

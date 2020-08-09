@@ -2,7 +2,7 @@
     "data": {
         "entities": [
             {
-                "capabilities": null,
+                "capabilities": {},
                 "config_entry_id": null,
                 "device_class": null,
                 "device_id": null,
@@ -18,7 +18,7 @@
                 "unit_of_measurement": null
             },
             {
-                "capabilities": null,
+                "capabilities": {},
                 "config_entry_id": null,
                 "device_class": null,
                 "device_id": null,
@@ -34,7 +34,7 @@
                 "unit_of_measurement": null
             },
             {
-                "capabilities": null,
+                "capabilities": {},
                 "config_entry_id": "5ab1d14d8777467db3a137c182b10509",
                 "device_class": null,
                 "device_id": null,
@@ -48,6 +48,353 @@
                 "supported_features": 0,
                 "unique_id": "home",
                 "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "effect_list": [
+                        "rainbow",
+                        "none"
+                    ],
+                    "max_mireds": 500,
+                    "min_mireds": 153
+                },
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": null,
+                "device_id": "2b3f3751f2174baf832b9bf0cf26f31b",
+                "disabled_by": null,
+                "entity_id": "light.bed_light",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Bed Light",
+                "platform": "demo",
+                "supported_features": 151,
+                "unique_id": "light_1",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "effect_list": null,
+                    "max_mireds": 500,
+                    "min_mireds": 153
+                },
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": null,
+                "device_id": "a5bc08c449d24d31bce2fcc948ffd67e",
+                "disabled_by": null,
+                "entity_id": "light.ceiling_lights",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Ceiling Lights",
+                "platform": "demo",
+                "supported_features": 151,
+                "unique_id": "light_2",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "effect_list": null,
+                    "max_mireds": 500,
+                    "min_mireds": 153
+                },
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": null,
+                "device_id": "4a5c404519b6408aaf1f8c27a21d0dec",
+                "disabled_by": null,
+                "entity_id": "light.kitchen_lights",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Kitchen Lights",
+                "platform": "demo",
+                "supported_features": 151,
+                "unique_id": "light_3",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {},
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": "moisture",
+                "device_id": "64bed07b5ea04c769bd000925b46eb4e",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.basement_floor_wet",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Basement Floor Wet",
+                "platform": "demo",
+                "supported_features": 0,
+                "unique_id": "binary_1",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {},
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": "motion",
+                "device_id": "8ca8c791bc734b6a88f156456b530b46",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.movement_backyard",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Movement Backyard",
+                "platform": "demo",
+                "supported_features": 0,
+                "unique_id": "binary_2",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {},
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": null,
+                "device_id": "f701ea6f84f4430a8a2d1fdd9f21dd88",
+                "disabled_by": null,
+                "entity_id": "cover.kitchen_window",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Kitchen Window",
+                "platform": "demo",
+                "supported_features": 11,
+                "unique_id": "cover_1",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {},
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": null,
+                "device_id": "32e139728436462c931b880038f30edf",
+                "disabled_by": null,
+                "entity_id": "cover.hall_window",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Hall Window",
+                "platform": "demo",
+                "supported_features": 15,
+                "unique_id": "cover_2",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {},
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": null,
+                "device_id": "0c766667737d44e184689acccdc6a323",
+                "disabled_by": null,
+                "entity_id": "cover.living_room_window",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Living Room Window",
+                "platform": "demo",
+                "supported_features": 255,
+                "unique_id": "cover_3",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {},
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": "garage",
+                "device_id": "158a32f87e7642bfb099996e2fec6540",
+                "disabled_by": null,
+                "entity_id": "cover.garage_door",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Garage Door",
+                "platform": "demo",
+                "supported_features": 3,
+                "unique_id": "cover_4",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "hvac_modes": [
+                        "heat",
+                        "off"
+                    ],
+                    "max_temp": 35.0,
+                    "min_temp": 7.0
+                },
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": null,
+                "device_id": "8fad88609cd24fec8b2ce4275397a944",
+                "disabled_by": null,
+                "entity_id": "climate.heatpump",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "HeatPump",
+                "platform": "demo",
+                "supported_features": 1,
+                "unique_id": "climate_1",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "fan_modes": [
+                        "On Low",
+                        "On High",
+                        "Auto Low",
+                        "Auto High",
+                        "Off"
+                    ],
+                    "hvac_modes": [
+                        "off",
+                        "heat",
+                        "cool",
+                        "auto",
+                        "dry",
+                        "fan_only"
+                    ],
+                    "max_humidity": 99,
+                    "max_temp": 35,
+                    "min_humidity": 30,
+                    "min_temp": 7,
+                    "swing_modes": [
+                        "Auto",
+                        "1",
+                        "2",
+                        "3",
+                        "Off"
+                    ]
+                },
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": null,
+                "device_id": "e69ebeefb7e84e719823966de5298272",
+                "disabled_by": null,
+                "entity_id": "climate.hvac",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Hvac",
+                "platform": "demo",
+                "supported_features": 111,
+                "unique_id": "climate_2",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {
+                    "fan_modes": [
+                        "On Low",
+                        "On High",
+                        "Auto Low",
+                        "Auto High",
+                        "Off"
+                    ],
+                    "hvac_modes": [
+                        "heat_cool",
+                        "cool",
+                        "heat"
+                    ],
+                    "max_temp": 35,
+                    "min_temp": 7,
+                    "preset_modes": [
+                        "home",
+                        "eco"
+                    ],
+                    "swing_modes": [
+                        "Auto",
+                        "1",
+                        "2",
+                        "3",
+                        "Off"
+                    ]
+                },
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": null,
+                "device_id": "959dfdfbec7b4256b9a012ed94fa37af",
+                "disabled_by": null,
+                "entity_id": "climate.ecobee",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Ecobee",
+                "platform": "demo",
+                "supported_features": 58,
+                "unique_id": "climate_3",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {},
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": null,
+                "device_id": "e9966b2a191741009cd687466fbcebbd",
+                "disabled_by": null,
+                "entity_id": "switch.decorative_lights",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Decorative Lights",
+                "platform": "demo",
+                "supported_features": 0,
+                "unique_id": "swith1",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {},
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": "outlet",
+                "device_id": "9d38bec879674aaaae49d5bb630d9404",
+                "disabled_by": null,
+                "entity_id": "switch.ac",
+                "icon": null,
+                "name": null,
+                "original_icon": "mdi:air-conditioner",
+                "original_name": "AC",
+                "platform": "demo",
+                "supported_features": 0,
+                "unique_id": "swith2",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": {},
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": "temperature",
+                "device_id": "12a05d90c8844171882e8d5cb9b10d69",
+                "disabled_by": null,
+                "entity_id": "sensor.outside_temperature",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Outside Temperature",
+                "platform": "demo",
+                "supported_features": 0,
+                "unique_id": "sensor_1",
+                "unit_of_measurement": "\u00b0C"
+            },
+            {
+                "capabilities": {},
+                "config_entry_id": "c0daee455d364a7cbd7b9868f988efa3",
+                "device_class": "humidity",
+                "device_id": "90f95122a64a411b929ed4f04de6b41d",
+                "disabled_by": null,
+                "entity_id": "sensor.outside_humidity",
+                "icon": null,
+                "name": null,
+                "original_icon": null,
+                "original_name": "Outside Humidity",
+                "platform": "demo",
+                "supported_features": 0,
+                "unique_id": "sensor_2",
+                "unit_of_measurement": "%"
+            },
+            {
+                "capabilities": null,
+                "config_entry_id": "55300dc715424409a410f7f6120f1c8a",
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "sensor.anniversary_bigbigworld",
+                "icon": null,
+                "name": null,
+                "original_icon": "mdi:calendar-blank",
+                "original_name": "bigbigworld",
+                "platform": "anniversaries",
+                "supported_features": 0,
+                "unique_id": "6bd12f2f-2af1-449a-be92-19d88c860f81",
+                "unit_of_measurement": "Days"
             }
         ]
     },

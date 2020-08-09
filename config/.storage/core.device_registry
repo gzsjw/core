@@ -1,0 +1,345 @@
+{
+    "data": {
+        "deleted_devices": [],
+        "devices": [
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "64bed07b5ea04c769bd000925b46eb4e",
+                "identifiers": [
+                    [
+                        "demo",
+                        "binary_1"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "Basement Floor Wet",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "8ca8c791bc734b6a88f156456b530b46",
+                "identifiers": [
+                    [
+                        "demo",
+                        "binary_2"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "Movement Backyard",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "f701ea6f84f4430a8a2d1fdd9f21dd88",
+                "identifiers": [
+                    [
+                        "demo",
+                        "cover_1"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "Kitchen Window",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "32e139728436462c931b880038f30edf",
+                "identifiers": [
+                    [
+                        "demo",
+                        "cover_2"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "Hall Window",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "0c766667737d44e184689acccdc6a323",
+                "identifiers": [
+                    [
+                        "demo",
+                        "cover_3"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "Living Room Window",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "158a32f87e7642bfb099996e2fec6540",
+                "identifiers": [
+                    [
+                        "demo",
+                        "cover_4"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "Garage Door",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "8fad88609cd24fec8b2ce4275397a944",
+                "identifiers": [
+                    [
+                        "demo",
+                        "climate_1"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "HeatPump",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "e69ebeefb7e84e719823966de5298272",
+                "identifiers": [
+                    [
+                        "demo",
+                        "climate_2"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "Hvac",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "959dfdfbec7b4256b9a012ed94fa37af",
+                "identifiers": [
+                    [
+                        "demo",
+                        "climate_3"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "Ecobee",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "e9966b2a191741009cd687466fbcebbd",
+                "identifiers": [
+                    [
+                        "demo",
+                        "swith1"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "Decorative Lights",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "9d38bec879674aaaae49d5bb630d9404",
+                "identifiers": [
+                    [
+                        "demo",
+                        "swith2"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "AC",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "12a05d90c8844171882e8d5cb9b10d69",
+                "identifiers": [
+                    [
+                        "demo",
+                        "sensor_1"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "Outside Temperature",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "90f95122a64a411b929ed4f04de6b41d",
+                "identifiers": [
+                    [
+                        "demo",
+                        "sensor_2"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "Outside Humidity",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "2b3f3751f2174baf832b9bf0cf26f31b",
+                "identifiers": [
+                    [
+                        "demo",
+                        "light_1"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "Bed Light",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "a5bc08c449d24d31bce2fcc948ffd67e",
+                "identifiers": [
+                    [
+                        "demo",
+                        "light_2"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "Ceiling Lights",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "c0daee455d364a7cbd7b9868f988efa3"
+                ],
+                "connections": [],
+                "entry_type": null,
+                "id": "4a5c404519b6408aaf1f8c27a21d0dec",
+                "identifiers": [
+                    [
+                        "demo",
+                        "light_3"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": "Kitchen Lights",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            }
+        ]
+    },
+    "key": "core.device_registry",
+    "version": 1
+}

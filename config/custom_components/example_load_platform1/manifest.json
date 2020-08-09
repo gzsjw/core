@@ -1,0 +1,8 @@
+{
+  "domain": "example_load_platform1",
+  "name": "Example Load Platform one",
+  "documentation": "https://github.com/home-assistant/example-custom-config/tree/master/custom_components/example_load_platform/",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}

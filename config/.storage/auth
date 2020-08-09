@@ -34,7 +34,7 @@
                 "created_at": "2020-08-03T22:19:43.094843+00:00",
                 "id": "9de5cac7772e4036a2104236a1b20361",
                 "jwt_key": "18279cc4d18f84d691f653905ed214f3f493edc34329f99e556639a402de20bb367995d6912fa41979397383497b94c2dfde5bd3b9b77156bd46d38b98fb77cd",
-                "last_used_at": "2020-08-03T22:19:43.095092+00:00",
+                "last_used_at": "2020-08-09T15:13:09.277939+00:00",
                 "last_used_ip": "172.17.0.1",
                 "token": "c8bad9c350c7b4026e983b55fe70bf9c1cf78a94c78808dcf21cffb47bb331c992bd95a07d9537714ba4488052838ed473f17f09781808bcacc182384464b271",
                 "token_type": "normal",
